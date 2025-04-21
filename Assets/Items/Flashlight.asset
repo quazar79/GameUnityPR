@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b2c9e575cecb7245ad9c1a9d61f75fa, type: 3}
+  m_Name: Flashlight
+  m_EditorClassIdentifier: 
+  itemName: "\u0424\u043E\u043D\u0430\u0440\u0438\u043A"
+  icon: {fileID: 21300000, guid: f513a9c9bf939024599d9ce1cb59df55, type: 3}
+  description: "\u041E\u0431\u044B\u043A\u043D\u043E\u0432\u0435\u043D\u043D\u044B\u0439
+    \u0444\u043E\u043D\u0430\u0440\u0438\u043A, \u0433\u043B\u0430\u0432\u043D\u043E\u0435
+    \u043D\u0435 \u0437\u0430\u0431\u044B\u0432\u0430\u0442\u044C \u043C\u0435\u043D\u044F\u0442\u044C
+    \u0431\u0430\u0442\u0430\u0440\u0435\u0439\u043A\u0438"
+  weight: 2
+  width: 1
+  height: 2
+  worldPrefab: {fileID: 179115470611366502, guid: 06f5c91e4abe6d74f84369e6a7e43e61,
+    type: 3}

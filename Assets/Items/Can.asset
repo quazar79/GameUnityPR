@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b2c9e575cecb7245ad9c1a9d61f75fa, type: 3}
+  m_Name: Can
+  m_EditorClassIdentifier: 
+  itemName: "\u0411\u0430\u043D\u043A\u0430 \u0433\u0430\u0437\u0438\u0440\u043E\u0432\u043A\u0438"
+  icon: {fileID: 21300000, guid: 0e1193f6799fa0140a373a6176a945b4, type: 3}
+  description: "\u0411\u0430\u043D\u043A\u0430 \u0433\u0430\u0437\u0438\u0440\u043E\u0432\u043A\u0438,
+    \u043D\u043E \u043A\u0442\u043E \u0437\u043D\u0430\u0435\u0442, \u0447\u0442\u043E
+    \u0432\u043D\u0443\u0442\u0440\u0438..."
+  weight: 1
+  width: 1
+  height: 1
+  worldPrefab: {fileID: 8566246040065517063, guid: 33f8657514fc5074db8976f74d8365b3,
+    type: 3}
